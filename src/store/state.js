@@ -2,6 +2,11 @@ export const state = {
     loader : false,
     categories : [
         {
+            name : 'Gần đây nhất',
+            id : 6,
+            slug : 'gan-day-nhat'
+        },
+        {
             name : 'Giấy dán tường Hàn Quốc',
             id : 1,
             slug : 'giay-dan-tuong-han-quoc'
@@ -1522,6 +1527,40 @@ export const state = {
     ],
     price : 200000,
     unit : 'tấm'
+},
+
+{
+    id : 30,
+    cate_id : 6,
+    name : 'Tranh thiếu nữ',
+    slug : 'tranh-thieu-nu',
+    product_code : 'thieunu',
+    img : 'mn1.jpg',
+    type : [
+        {
+            img : 'mn1.jpg',
+            name : 'Tranh thiếu nữ'
+        },
+        {
+            img : 'mn2.jpg',
+            name : 'Tranh thiếu nữ'
+        },
+        {
+            img : 'mn3.jpg',
+            name : 'Tranh thiếu nữ'
+        },
+        {
+            img : 'mn4.jpg',
+            name : 'Tranh thiếu nữ'
+        },
+        {
+            img : 'mn5.jpg',
+            name : 'Tranh thiếu nữ'
+        }
+
+    ],
+    price : 200000,
+    unit : 'm2'
 },
 ],
     hotProducts : [],
