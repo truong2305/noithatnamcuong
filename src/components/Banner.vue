@@ -4,7 +4,7 @@
 			<div class="row">
 				<div class="col-lg-8 offset-lg-2 text-center">
 					<div class="breadcrumb-text">
-						<h1 class="mb-sm-4 mb-3">V-Home</h1>
+						<h1 class="mb-sm-4 mb-3">V-Home Đà Lạt</h1>
                             <p>Chuyên phân phối giấy dán tường <span class="d-block">tranh dán tường Hàn Quốc</span></p>
                             <base-button/>
 					</div>
