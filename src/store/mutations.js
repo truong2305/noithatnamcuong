@@ -8,7 +8,11 @@ export const mutations = {
         },500)
     },
     getProductsHome(state) {
-        state.productsHome = [...state.products].slice(0,8)
+        let shuffled = [...state.products]
+        .map(value => ({ value, sort: Math.random() }))
+        .sort((a, b) => a.sort - b.sort)
+        .map(({ value }) => value)
+        state.productsHome = shuffled.slice(0,8)
     },
     getConstructionsHome(state) {
         state.constructionsHome = [...state.constructions].slice(0,3)
