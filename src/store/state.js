@@ -35,6 +35,139 @@ export const state = {
     productsHome : [],
     products : [
         {
+            id : 30,
+            cate_id : 6,
+            name : 'Tranh thiếu nữ',
+            slug : 'tranh-thieu-nu',
+            product_code : 'thieunu',
+            img : 'mn1.jpg',
+            type : [
+                {
+                    img : 'mn1.jpg',
+                    name : 'Tranh thiếu nữ'
+                },
+                {
+                    img : 'mn2.jpg',
+                    name : 'Tranh thiếu nữ'
+                },
+                {
+                    img : 'mn3.jpg',
+                    name : 'Tranh thiếu nữ'
+                },
+                {
+                    img : 'mn4.jpg',
+                    name : 'Tranh thiếu nữ'
+                },
+                {
+                    img : 'mn5.jpg',
+                    name : 'Tranh thiếu nữ'
+                }
+        
+            ],
+            price : 200000,
+            unit : 'm2'
+        },
+        
+        {
+            id : 31,
+            cate_id : 6,
+            name : 'Tòa nhà thành phố',
+            slug : 'toa-nha-thanh-pho',
+            product_code : 'toanhathanhpho',
+            img : 'mn6-min.jpg',
+            type : [
+                {
+                    img : 'mn6-min.jpg',
+                    name : 'Tòa nhà thành phố'
+                },
+                {
+                    img : 'mn7-min.jpg',
+                    name : 'Tòa nhà thành phố'
+                },
+                {
+                    img : 'mn8-min.jpg',
+                    name : 'Tòa nhà thành phố'
+                },
+                {
+                    img : 'mn9-min.jpg',
+                    name : 'Tòa nhà thành phố'
+                },
+                {
+                    img : 'mn10-min.jpg',
+                    name : 'Tòa nhà thành phố'
+                }
+        
+            ],
+            price : 200000,
+            unit : 'm2'
+        },
+        {
+            id : 32,
+            cate_id : 6,
+            name : 'Hội họa',
+            slug : 'hoi-hoa',
+            product_code : 'hoihoa',
+            img : 'mn12-min.jpg',
+            type : [
+                {
+                    img : 'mn12-min.jpg',
+                    name : 'Hội họa'
+                },
+                {
+                    img : 'mn13-min.jpg',
+                    name : 'Hội họa'
+                },
+                {
+                    img : 'mn14-min.jpg',
+                    name : 'Hội họa'
+                },
+                {
+                    img : 'mn15-min.jpg',
+                    name : 'Hội họa'
+                },
+                {
+                    img : 'mn16-min.jpg',
+                    name : 'Hội họa'
+                },
+                {
+                    img : 'mn17-min.jpg',
+                    name : 'Hội họa'
+                }
+        
+            ],
+            price : 200000,
+            unit : 'm2'
+        },
+        {
+            id : 33,
+            cate_id : 6,
+            name : 'Thiên nhiên',
+            slug : 'thien-nhien',
+            product_code : 'thieunu',
+            img : 'mn18-min.jpg',
+            type : [
+                {
+                    img : 'mn18-min.jpg',
+                    name : 'Thiên nhiên'
+                },
+                {
+                    img : 'mn19-min.jpg',
+                    name : 'Thiên nhiên'
+                },
+                {
+                    img : 'mn20-min.jpg',
+                    name : 'Thiên nhiên'
+                },
+                {
+                    img : 'mn21-min.jpg',
+                    name : 'Thiên nhiên'
+                }
+        
+            ],
+            price : 200000,
+            unit : 'm2'
+        },
+        {
             id : 1,
             cate_id : 1,
             name : 'Giấy dán tường lv 2022',
@@ -1527,40 +1660,6 @@ export const state = {
     ],
     price : 200000,
     unit : 'tấm'
-},
-
-{
-    id : 30,
-    cate_id : 6,
-    name : 'Tranh thiếu nữ',
-    slug : 'tranh-thieu-nu',
-    product_code : 'thieunu',
-    img : 'mn1.jpg',
-    type : [
-        {
-            img : 'mn1.jpg',
-            name : 'Tranh thiếu nữ'
-        },
-        {
-            img : 'mn2.jpg',
-            name : 'Tranh thiếu nữ'
-        },
-        {
-            img : 'mn3.jpg',
-            name : 'Tranh thiếu nữ'
-        },
-        {
-            img : 'mn4.jpg',
-            name : 'Tranh thiếu nữ'
-        },
-        {
-            img : 'mn5.jpg',
-            name : 'Tranh thiếu nữ'
-        }
-
-    ],
-    price : 200000,
-    unit : 'm2'
 },
 ],
     hotProducts : [],
