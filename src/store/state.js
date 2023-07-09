@@ -67,7 +67,35 @@ export const state = {
             price : 200000,
             unit : 'm2'
         },
-        
+        {
+            id : 38,
+            cate_id : 6,
+            name : 'Tranh thiếu nữ 2',
+            slug : 'tranh-thieu-nu-2',
+            product_code : 'thieunu2',
+            img : 'mn43-min.jpg',
+            type : [
+                {
+                    img : 'mn43-min.jpg',
+                    name : 'Tranh thiếu nữ 2'
+                },
+                {
+                    img : 'mn44-min.jpg',
+                    name : 'Tranh thiếu nữ 2'
+                },
+                {
+                    img : 'mn45-min.jpg',
+                    name : 'Tranh thiếu nữ 2'
+                },
+                {
+                    img : 'mn46-min.jpg',
+                    name : 'Tranh thiếu nữ 2'
+                }
+               
+            ],
+            price : 200000,
+            unit : 'm2'
+        },
         {
             id : 31,
             cate_id : 6,
@@ -163,6 +191,164 @@ export const state = {
                     name : 'Thiên nhiên'
                 }
         
+            ],
+            price : 200000,
+            unit : 'm2'
+        },
+        {
+            id : 34,
+            cate_id : 6,
+            name : 'Hoa lá',
+            slug : 'hoa-la',
+            product_code : 'hoala',
+            img : 'mn22-min.jpg',
+            type : [
+                {
+                    img : 'mn22-min.jpg',
+                    name : 'Hoa lá'
+                },
+                {
+                    img : 'mn23-min.jpg',
+                    name : 'Hoa lá'
+                },
+                {
+                    img : 'mn24-min.jpg',
+                    name : 'Hoa lá'
+                },
+                {
+                    img : 'mn25-min.jpg',
+                    name : 'Hoa lá'
+                },
+                {
+                    img : 'mn26-min.jpg',
+                    name : 'Hoa lá'
+                }
+        
+            ],
+            price : 200000,
+            unit : 'm2'
+        },
+        {
+            id : 35,
+            cate_id : 6,
+            name : 'Hoa lá 2',
+            slug : 'hoa-la-2',
+            product_code : 'hoala2',
+            img : 'mn27-min.jpg',
+            type : [
+                {
+                    img : 'mn27-min.jpg',
+                    name : 'Hoa lá 2'
+                },
+                {
+                    img : 'mn28-min.jpg',
+                    name : 'Hoa lá 2'
+                },
+                {
+                    img : 'mn29-min.jpg',
+                    name : 'Hoa lá 2'
+                },
+                {
+                    img : 'mn30-min.jpg',
+                    name : 'Hoa lá 2'
+                },
+                {
+                    img : 'mn31-min.jpg',
+                    name : 'Hoa lá 2'
+                },
+                {
+                    img : 'mn32-min.jpg',
+                    name : 'Hoa lá 2'
+                },
+                {
+                    img : 'mn33-min.jpg',
+                    name : 'Hoa lá 2'
+                },
+                {
+                    img : 'mn34-min.jpg',
+                    name : 'Hoa lá 2'
+                }
+        
+            ],
+            price : 200000,
+            unit : 'm2'
+        },
+        {
+            id : 36,
+            cate_id : 6,
+            name : 'Hoa lá 3',
+            slug : 'hoa-la-3',
+            product_code : 'hoala3',
+            img : 'mn35-min.jpg',
+            type : [
+                {
+                    img : 'mn35-min.jpg',
+                    name : 'Hoa lá 3'
+                },
+                {
+                    img : 'mn36-min.jpg',
+                    name : 'Hoa lá 3'
+                },
+                {
+                    img : 'mn37-min.jpg',
+                    name : 'Hoa lá 3'
+                },
+                {
+                    img : 'mn38-min.jpg',
+                    name : 'Hoa lá 3'
+                }
+            ],
+            price : 200000,
+            unit : 'm2'
+        },
+        {
+            id : 37,
+            cate_id : 6,
+            name : 'Hoa lá 4',
+            slug : 'hoa-la-4',
+            product_code : 'hoala4',
+            img : 'mn39-min.jpg',
+            type : [
+                {
+                    img : 'mn39-min.jpg',
+                    name : 'Hoa lá 4'
+                },
+                {
+                    img : 'mn40-min.jpg',
+                    name : 'Hoa lá 4'
+                },
+                {
+                    img : 'mn41-min.jpg',
+                    name : 'Hoa lá 4'
+                },
+                {
+                    img : 'mn42-min.jpg',
+                    name : 'Hoa lá 4'
+                }
+            ],
+            price : 200000,
+            unit : 'm2'
+        },
+        {
+            id : 39,
+            cate_id : 6,
+            name : 'Hoa lá 5',
+            slug : 'hoa-la-5',
+            product_code : 'hoala5',
+            img : 'mn47-min.jpg',
+            type : [
+                {
+                    img : 'mn47-min.jpg',
+                    name : 'Hoa lá 5'
+                },
+                {
+                    img : 'mn48-min.jpg',
+                    name : 'Hoa lá 5'
+                },
+                {
+                    img : 'mn49-min.jpg',
+                    name : 'Hoa lá 5'
+                }
             ],
             price : 200000,
             unit : 'm2'
