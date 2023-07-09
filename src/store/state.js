@@ -1856,6 +1856,78 @@ export const state = {
     editProduct : {},
     constructions : [
         {
+            title : 'Hoàn thiện căn Trại Mát 🌲🌲',
+            month : '4',
+            year : '2023',
+            date : '5',
+            imgs : ['ct3-min.jpg','ct2-min.jpg','ct1-min.jpg','ct4-min.jpg','ct5-min.jpg','ct6-min.jpg','ct7-min.jpg','ct8-min.jpg'],
+            content : 'Hoàn thiện căn Trại Mát 🌲🌲'
+
+        },
+        {
+            title : 'Hoàn thiện tranh dán tường căng villa Khe Sanh ❤️❤️😘🍻',
+            month : '4',
+            year : '2023',
+            date : '4',
+            imgs : ['ct18-min.jpg','ct10-min.jpg','ct11-min.jpg','ct12-min.jpg','ct13-min.jpg','ct15-min.jpg','ct16-min.jpg','ct17-min.jpg','ct9-min.jpg'],
+            content : 'Hoàn thiện tranh dán tường căng villa Khe Sanh ❤️❤️😘🍻'
+
+        },
+        {
+            title : 'Quá xinh lung linh luôn nè Bé ơi 🧚‍♂️🧚🧚‍♂️🧚‍♂️🧚‍♂️',
+            month : '11',
+            year : '2022',
+            date : '18',
+            imgs : ['ct21-min.jpg','ct20-min.jpg','ct19-min.jpg','ct22-min.jpg','ct23-min.jpg','ct24-min.jpg'],
+            content : 'Quá xinh lung linh luôn nè Bé ơi 🧚‍♂️🧚🧚‍♂️🧚‍♂️🧚‍♂️'
+
+        },
+        {
+            title : 'Với Vhome trang trí những bức tường lớn hơn 100m2  luôn là một trãi nghiêm tuyệt vời 💪💪💪💪🤪🤪',
+            month : '11',
+            year : '2022',
+            date : '13',
+            imgs : ['ct25-min.jpg','ct26-min.jpg','ct27-min.jpg','ct28-min.jpg','ct29-min.jpg','ct30-min.jpg','ct31-min.jpg'],
+            content : 'Với Vhome trang trí những bức tường lớn hơn 100m2  luôn là một trãi nghiêm tuyệt vời 💪💪💪💪🤪🤪'
+
+        },
+        {
+            title : 'Một chiếc phòng cho bé thật ngộ ngĩnh và dễ thương nè 🦹🤪😜🤪😜',
+            month : '11',
+            year : '2022',
+            date : '1',
+            imgs : ['ct32-min.jpg','ct33-min.jpg','ct34-min.jpg','ct35-min.jpg','ct36-min.jpg','ct37-min.jpg'],
+            content : 'Một chiếc phòng cho bé thật ngộ ngĩnh và dễ thương nè 🦹🤪😜🤪😜'
+
+        },
+        {
+            title : 'Thi công hơn 400 mét vuông tranh và giấy dán tường Hàn quốc',
+            month : '10',
+            year : '2022',
+            date : '26',
+            imgs : ['ct38-min.jpg','ct39-min.jpg','ct40-min.jpg','ct41-min.jpg','ct42-min.jpg','ct43-min.jpg','ct44-min.jpg','ct45-min.jpg','ct46-min.jpg','ct47-min.jpg','ct48-min.jpg'],
+            content : '14 Đống Đa, Amazing Kids 🧚🧚‍♂️🧚‍♀️🦸🦸‍♂️🦹🧜🧜‍♂️🧜‍♀️ Chúc các con vui chơi thoải thích, có một cuộc sống tràn ngập sắc màu và một tương lai tươi sáng nha 😜🤪'
+
+        },
+        {
+            title : 'Lột xác hoàn toàn 5 phòng Lux homestay Đà lạt trong 2 ngày 😜🤪',
+            month : '10',
+            year : '2022',
+            date : '24',
+            imgs : ['ct49-min.jpg','ct50-min.jpg','ct51-min.jpg','ct52-min.jpg','ct53-min.jpg','ct54-min.jpg','ct55-min.jpg','ct56-min.jpg'],
+            content : 'Lột xác hoàn toàn 5 phòng Lux homestay Đà lạt trong 2 ngày 😜🤪'
+
+        },
+        {
+            title : 'Hơn 200m2 giấy dán tường Hàn quốc tại villa An Sơn ❤️😘',
+            month : '6',
+            year : '2022',
+            date : '10',
+            imgs : ['ct57-min.jpg','ct58-min.jpg','ct59-min.jpg','ct60-min.jpg','ct61-min.jpg'],
+            content : 'Hơn 200m2 giấy dán tường Hàn quốc tại villa An Sơn ❤️😘'
+
+        },
+        {
             title : 'Thi công tại Tà Nung, Lâm Đồng 🙈🙈🙈😜',
             month : '5',
             year : '2021',

@@ -4,6 +4,7 @@
   <div class="about">
     <title-page class="text-center" firstTitle="Giới" lastTitle="Thiệu" />
     <div class="container">
+      <p class="text-center mb-5 text-desc">Hãy cho tôi 1 bức tường phẳng, tôi sẽ làm nên điều bạn mong muốn!</p>
       <nav class="mb-md-5 mb-4">
         <ul class="nav nav-tabs">
           <li
@@ -59,6 +60,9 @@ export default {
   padding: 120px 0;
   @media (max-width: 767.9px) {
     padding: 50px 0;
+  }
+  .text-desc {
+    margin-top: -1rem;
   }
   &-text {
     text-align: center;
