@@ -6,12 +6,7 @@
       <div class="form-title">
         <h2>Liên hệ tư vấn</h2>
         <p class="mb-0">
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur,
-          ratione! Laboriosam est, assumenda.
-        </p>
-        <p>
-          Perferendis, quo alias quaerat aliquid. Corporis ipsum minus
-          voluptate? Dolore, esse natus!
+          Hãy cho tôi 1 bức tường phẳng, tôi sẽ làm nên điều bạn mong muốn!
         </p>
       </div>
     </div>

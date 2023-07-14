@@ -4,11 +4,11 @@
   <div class="container">
   
     <div class="row justify-content-center">
-        <h4 class="text-center mb-4">Ban điều hành</h4>
+        <h4 class="text-center mb-4">Liên hệ</h4>
       <div class="col-lg-3 col-md-6">
         <div class="single-team-item">
           <div class="team-bg team-bg-1"></div>
-          <h4>Nam Trần <span>Chủ tịch</span></h4>
+          <h4>Nam Trần</h4>
           <ul class="social-link-team">
             <li>
               <a href="https://www.facebook.com/nam.tran.56232938" target="_blank"><i class="fab fa-facebook-f"></i></a>
@@ -22,7 +22,7 @@
       <div class="col-lg-3 col-md-6 mt-3 mt-md-0">
         <div class="single-team-item">
           <div class="team-bg team-bg-2"></div>
-          <h4>Thu Hằng <span>Thư ký</span></h4>
+          <h4>Thu Hằng</h4>
           <ul class="social-link-team">
             <li>
               <a href="https://www.facebook.com/baotran.tran.718689" target="_blank"
@@ -38,7 +38,7 @@
       <div class="col-lg-3 col-md-6 mt-3 mt-lg-0">
         <div class="single-team-item">
           <div class="team-bg team-bg-3"></div>
-          <h4>Cường Seven <span>Giám đốc</span></h4>
+          <h4>Cường Seven</h4>
           <ul class="social-link-team">
             <li>
               <a href="https://www.facebook.com/profile.php?id=100027358021781" target="_blank"
